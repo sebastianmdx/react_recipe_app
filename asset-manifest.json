@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/react_recipe_app.git/static/css/main.4eddfc29.chunk.css",
-    "main.js": "/react_recipe_app.git/static/js/main.c4180c3a.chunk.js",
-    "main.js.map": "/react_recipe_app.git/static/js/main.c4180c3a.chunk.js.map",
-    "runtime-main.js": "/react_recipe_app.git/static/js/runtime-main.bda43bd5.js",
-    "runtime-main.js.map": "/react_recipe_app.git/static/js/runtime-main.bda43bd5.js.map",
-    "static/js/2.b10ab8c3.chunk.js": "/react_recipe_app.git/static/js/2.b10ab8c3.chunk.js",
-    "static/js/2.b10ab8c3.chunk.js.map": "/react_recipe_app.git/static/js/2.b10ab8c3.chunk.js.map",
-    "index.html": "/react_recipe_app.git/index.html",
-    "static/css/main.4eddfc29.chunk.css.map": "/react_recipe_app.git/static/css/main.4eddfc29.chunk.css.map",
-    "static/js/2.b10ab8c3.chunk.js.LICENSE.txt": "/react_recipe_app.git/static/js/2.b10ab8c3.chunk.js.LICENSE.txt"
+    "main.css": "/react_recipe_app/static/css/main.7db27024.chunk.css",
+    "main.js": "/react_recipe_app/static/js/main.c7d36fea.chunk.js",
+    "main.js.map": "/react_recipe_app/static/js/main.c7d36fea.chunk.js.map",
+    "runtime-main.js": "/react_recipe_app/static/js/runtime-main.cca50fb9.js",
+    "runtime-main.js.map": "/react_recipe_app/static/js/runtime-main.cca50fb9.js.map",
+    "static/js/2.b10ab8c3.chunk.js": "/react_recipe_app/static/js/2.b10ab8c3.chunk.js",
+    "static/js/2.b10ab8c3.chunk.js.map": "/react_recipe_app/static/js/2.b10ab8c3.chunk.js.map",
+    "index.html": "/react_recipe_app/index.html",
+    "static/css/main.7db27024.chunk.css.map": "/react_recipe_app/static/css/main.7db27024.chunk.css.map",
+    "static/js/2.b10ab8c3.chunk.js.LICENSE.txt": "/react_recipe_app/static/js/2.b10ab8c3.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.bda43bd5.js",
+    "static/js/runtime-main.cca50fb9.js",
     "static/js/2.b10ab8c3.chunk.js",
-    "static/css/main.4eddfc29.chunk.css",
-    "static/js/main.c4180c3a.chunk.js"
+    "static/css/main.7db27024.chunk.css",
+    "static/js/main.c7d36fea.chunk.js"
   ]
 }
